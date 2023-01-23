@@ -31,7 +31,7 @@
       </tr>
         <td>
             <a  href="https://www.linkedin.com/in/robinsonbrz/">
-            <img  src="https://github.com/robinsonbrz/chat-gpt-simple-prompt/PromptGPT.gif" width="832" height="484" ></a>
+            <img  src="https://raw.githubusercontent.com/robinsonbrz/chat-gpt-simple-prompt/main/PromptGPT.gif" width="832" height="484" ></a>
         </td>
       </tr>
     </table>
