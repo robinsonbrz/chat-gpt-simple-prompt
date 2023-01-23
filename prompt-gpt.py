@@ -22,15 +22,15 @@ def generate_gpt3_response(user_text, print_output=False):
     # Return the first choice's text
     return completions.choices[0].text
 
-print("\n\n\n\n\nPrompt ChatGPT\n")
+print("\nPrompt ChatGPT\n")
 
 
-question = input("Faça uma pergunta:\n")
+question = input("Faça uma pergunta:\n>")
 
 while question != "":
     print(generate_gpt3_response(question))
     print("\n\n####################################################\n\n")
     print('Pressione "Enter" para sair, ou...')
-    question = input("Faça uma pergunta pergunta:\n")
+    question = input("Faça uma pergunta:\n> ")
 
 print("Saindo.")
