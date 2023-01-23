@@ -53,7 +53,7 @@ pip install python-decouple
 ```
 utilize o arquivo ".envsample" para colocar sua chave api
 
-Em seguioda renomeie o arquivo ".envsample" para ".env"
+Em seguida renomeie o arquivo ".envsample" para ".env"
 
 ```
 mv .envsample .env
